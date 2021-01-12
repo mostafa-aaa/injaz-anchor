@@ -7,5 +7,7 @@
         public int TopTaskId { get; set; }
 
         public int ParentTaskId { get; set; }
+
+        public string Details { get; set; }
     }
 }
