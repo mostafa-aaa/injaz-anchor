@@ -1,1 +1,3 @@
-# injaz-anchor
+# Injaz Anchor
+
+#An app to organize my daily tasks
