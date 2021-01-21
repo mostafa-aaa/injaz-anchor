@@ -1,6 +1,6 @@
 # Injaz Anchor
 
-An app to organize my daily tasks
+A c# app for organizing my daily tasks
 
 ----------------------------------------
 
