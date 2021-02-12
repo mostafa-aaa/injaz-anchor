@@ -1,4 +1,4 @@
-﻿namespace InjazAnchor.Data.Entities
+﻿namespace InjazAnchor.Core.Entities
 {
     public abstract class BaseEntity
     {

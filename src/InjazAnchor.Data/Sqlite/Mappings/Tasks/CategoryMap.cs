@@ -1,4 +1,4 @@
-﻿using InjazAnchor.Data.Entities.Tasks;
+﻿using InjazAnchor.Core.Entities.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

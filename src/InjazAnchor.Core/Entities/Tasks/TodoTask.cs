@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InjazAnchor.Data.Entities.Tasks
+namespace InjazAnchor.Core.Entities.Tasks
 {
     public class TodoTask : BaseEntity
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InjazAnchor.Data.Entities.Sessions
+namespace InjazAnchor.Core.Entities.Sessions
 {
     public class Session : BaseEntity
     {
