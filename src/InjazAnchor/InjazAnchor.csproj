@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\InjazAnchor.Core\InjazAnchor.Core.csproj" />
     <ProjectReference Include="..\InjazAnchor.Data\InjazAnchor.Data.csproj" />
   </ItemGroup>
 
